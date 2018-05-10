@@ -1,0 +1,14 @@
+.content{
+    margin-top: 40px;
+}
+.content .post-intro{
+    margin-bottom: 20px;
+}
+.content .post-intro .author{
+    color: #607fa6;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.content .post-intro .time{
+   color: #888;
+}
